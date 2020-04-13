@@ -3,11 +3,12 @@
 * {
   box-sizing: border-box;
 }
-
-html {
-  border: 15px solid #f9748f;
+.logo{
+  display: inline-block;
+  width: 250px;
+  margin-top: -50px;
+  margin-bottom: -90px;
 }
-
 body {
   font-family: "Montserrat", sans-serif;
 }
@@ -24,7 +25,7 @@ body {
 
 .title {
   color: #f9748f;
-  font-weight: 200;
+  font-weight: 500;
   font-size: 3rem;
 }
 

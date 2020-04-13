@@ -3,6 +3,7 @@ import { Recipe } from './components/recipe/recipe.component';
 import { SearchBox } from './components/search-box/search-box.component';
 import { SearchFilter } from './components/search-filter/search-filter.component';
 import './App.css';
+import Logo from './Image/Logo.png'
 
 const App = () => {
   //Keys (User Information) for Api Fetching
@@ -46,7 +47,8 @@ const App = () => {
   return (
     <div className="App">
       <header className="header">
-        <h1 className="title">Strange Recipes Finder</h1>
+        <img src={Logo} className='logo'/>
+        <h1 className="title">Deliciously lucious Recipes 🥘 🍕 </h1>
         <form onSubmit={getSearch} className="search-form">
           <SearchBox updateSearch={updateSearch} placeholder="Search recipe" />
         </form>
