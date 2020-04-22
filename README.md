@@ -1,4 +1,8 @@
 ![Logo](https://user-images.githubusercontent.com/62325347/79120334-409d7b00-7db0-11ea-9e82-79e2a4cedb25.png)
+![Recipe](https://user-images.githubusercontent.com/62325347/80022037-1a3ab680-84f9-11ea-9df1-3a8b75989872.jpg)
+
+# Demonstration
+![RecipeApp](https://user-images.githubusercontent.com/62325347/80022870-4e62a700-84fa-11ea-89be-9200bf879957.gif)
 
 # Note
 
